@@ -130,12 +130,12 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },input: {
     fontSize: 18,
-    height: 50, // Adjust the height as needed
+    height: 50,
     borderColor: "gray",
     borderWidth: 1,
     marginBottom: 10,
     paddingHorizontal: 10,
-    width: 300, // Adjust the width as needed
+    width: 300,
   },
   bought: {
     color:"blue",
